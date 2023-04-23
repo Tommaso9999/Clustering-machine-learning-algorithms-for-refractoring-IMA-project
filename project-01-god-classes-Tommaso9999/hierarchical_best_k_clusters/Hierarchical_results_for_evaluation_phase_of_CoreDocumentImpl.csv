@@ -1,0 +1,42 @@
+cluster_id,method_name
+0,['getElementById']
+1,"['insertedNode', 'createDocumentFragment', 'createElementNS', 'removingNode', 'removedNode', 'createDocumentType', 'createAttributeNS', 'replacingNode', 'replacedNode', 'replacingData', 'isNormalizeDocRequired', 'getTextContent', 'getAsync', 'setTextContent', 'replacedCharacterData', 'modifiedAttrValue', 'setAttrNode', 'createTextNode', 'setAsync', 'abort', 'getElementsByTagNameNS', 'removedAttrNode', 'renamedAttrNode', 'load', 'addEventListener', 'renamedElement', 'loadXML', 'canRenameElements', 'clone', 'removeEventListener', 'copyEventListeners', 'getElementsByTagName', 'getImplementation', 'dispatchEvent', 'replacedText', 'deletedText', 'insertedText', 'modifyingCharacterData', 'getOwnerDocument', 'createCDATASection', 'getNodeType', 'modifiedCharacterData', 'getNodeName', 'setMutationEvents', 'insertingNode', 'createComment', 'getMutationEvents']"
+2,"['createNotation', 'checkQName', 'createElement', 'createProcessingInstruction', 'createElementDefinition', 'createEntity', 'createEntityReference', 'createAttribute']"
+3,['importNode']
+4,['renameNode']
+5,"['replaceChild', 'insertBefore']"
+6,['adoptNode']
+7,['replaceRenameElement']
+8,"['checkNamespaceWF', 'setErrorChecking', 'checkDOMNSErr', 'setStrictErrorChecking', 'getErrorChecking', 'getStrictErrorChecking']"
+9,"['callUserDataHandlers', 'getUserData', 'getUserDataRecord', 'removeUserDataTable', 'setUserDataTable']"
+10,['setXmlVersion']
+11,"['removeIdentifier', 'getIdentifiers', 'getIdentifier', 'clearIdentifiers', 'putIdentifier']"
+12,['isXMLVersionChanged']
+13,['normalizeDocument']
+14,['isKidOK']
+15,"['getBaseURI', 'setDocumentURI', 'getDocumentURI']"
+16,['removeChild']
+17,"['isXML11Version', 'isValidQName', 'isXMLName']"
+18,['getEncoding']
+19,['cloneNode']
+20,"['setXmlStandalone', 'getXmlStandalone']"
+21,"['getNodeListCache', 'freeNodeListCache']"
+22,"['getInputEncoding', 'setInputEncoding']"
+23,"['changed', 'changes']"
+24,['getDomConfig']
+25,"['getXmlEncoding', 'setXmlEncoding']"
+26,['getFeature']
+27,['setUserData']
+28,['setEncoding']
+29,['setStandalone']
+30,['getDocumentElement']
+31,['saveXML']
+32,['getNodeNumber']
+33,['readObject']
+34,['setVersion']
+35,['getStandalone']
+36,['getXmlVersion']
+37,['undeferChildren']
+38,['writeObject']
+39,['getVersion']
+40,['getDoctype']

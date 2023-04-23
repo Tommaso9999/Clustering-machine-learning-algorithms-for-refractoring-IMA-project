@@ -1,0 +1,55 @@
+cluster_id,method_name
+0,"['element', 'occurrence']"
+1,['getNotationDecl']
+2,"['startParameterEntity', 'endParameterEntity']"
+3,"['resize', 'isImmutable', 'any', 'printElements', 'putElementNameMapping', 'empty', 'endContentModel', 'isNamespaceAware', 'getSymbolTable', 'generateSequence', 'printAttribute', 'startAttlist', 'endAttlist', 'startConditional', 'pcdata', 'ignoredCharacters', 'endConditional', 'setDTDContentModelSource', 'getDTDContentModelSource', 'isEntityDeclared', 'textDecl', 'getGrammarDescription', 'comment', 'processingInstruction']"
+4,"['getElementDeclName', 'endDTD']"
+5,['setAttributeDecl']
+6,"['setEntityDecl', 'getEntityDecl']"
+7,['attributeDecl']
+8,"['getElementDeclIsExternal', 'getAttributeDeclIsExternal', 'getFirstAttributeDeclIndex']"
+9,['createAttributeDecl']
+10,['setElementDecl']
+11,['elementDecl']
+12,['put']
+13,"['getContentSpec', 'setContentSpec', 'createContentSpec']"
+14,"['addContentSpecNode', 'addUniqueLeafNode']"
+15,"['externalEntityDecl', 'internalEntityDecl', 'unparsedEntityDecl']"
+16,"['buildSyntaxTree', 'createChildModel']"
+17,['getContentSpecType']
+18,"['endGroup', 'separator']"
+19,['ensureElementDeclCapacity']
+20,['getElementContentModelValidator']
+21,"['startDTD', 'initializeContentModelStack']"
+22,"['rehashCommon', 'get']"
+23,['ensureAttributeDeclCapacity']
+24,['ensureNotationDeclCapacity']
+25,['startGroup']
+26,['ensureContentSpecCapacity']
+27,['addContentSpecToElement']
+28,"['startExternalSubset', 'endExternalSubset']"
+29,['getAttributeDecl']
+30,['rebalance']
+31,"['getContentSpecAsString', 'getContentSpecIndex', 'setContentSpecIndex']"
+32,['createElementDecl']
+33,['ensureEntityDeclCapacity']
+34,['printAttributes']
+35,['createNotationDecl']
+36,['getElementDecl']
+37,['hash0']
+38,['isEntityUnparsed']
+39,"['getElementDeclIndex', 'getNotationDeclIndex', 'getEntityDeclIndex']"
+40,['isCDATAAttribute']
+41,['notationDecl']
+42,['createEntityDecl']
+43,['startContentModel']
+44,['appendContentSpec']
+45,"['getFirstElementDeclIndex', 'getNextElementDeclIndex']"
+46,['getAttributeDeclIndex']
+47,['setNotationDecl']
+48,['rehash']
+49,['setFirstAttributeDeclIndex']
+50,['getNextAttributeDeclIndex']
+51,['hash']
+52,['contentSpecTree']
+53,"['setDTDSource', 'getDTDSource']"

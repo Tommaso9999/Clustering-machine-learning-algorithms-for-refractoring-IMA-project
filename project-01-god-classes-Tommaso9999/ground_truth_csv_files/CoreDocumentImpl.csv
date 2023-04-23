@@ -1,0 +1,12 @@
+Keywords,Methods
+none,"['getNodeNumber', 'insertedNode', 'setXmlVersion', 'setVersion', 'removingNode', 'checkNamespaceWF', 'removedNode', 'checkQName', 'replacingNode', 'getXmlVersion', 'replacedNode', 'isXML11Version', 'replacingData', 'replaceChild', 'insertBefore', 'getVersion', 'isNormalizeDocRequired', 'getAsync', 'isXMLVersionChanged', 'replacedCharacterData', 'importNode', 'modifiedAttrValue', 'cloneNode', 'setAttrNode', 'setAsync', 'abort', 'getElementsByTagNameNS', 'removedAttrNode', 'replaceRenameElement', 'getDoctype', 'renamedAttrNode', 'load', 'addEventListener', 'removeChild', 'renamedElement', 'loadXML', 'canRenameElements', 'getDocumentElement', 'clone', 'removeEventListener', 'getFeature', 'copyEventListeners', 'getElementsByTagName', 'undeferChildren', 'isValidQName', 'getImplementation', 'dispatchEvent', 'checkDOMNSErr', 'replacedText', 'getElementById', 'renameNode', 'normalizeDocument', 'isXMLName', 'deletedText', 'changed', 'adoptNode', 'insertedText', 'isKidOK', 'modifyingCharacterData', 'changes', 'getOwnerDocument', 'getNodeType', 'modifiedCharacterData', 'saveXML', 'getDomConfig', 'getNodeName', 'setMutationEvents', 'insertingNode', 'getMutationEvents']"
+create,"['createDocumentFragment', 'createElementNS', 'createNotation', 'createDocumentType', 'createAttributeNS', 'createElement', 'createProcessingInstruction', 'createElementDefinition', 'createTextNode', 'createEntity', 'createEntityReference', 'createAttribute', 'createCDATASection', 'createComment']"
+encoding,"['getXmlEncoding', 'getEncoding', 'setEncoding', 'getInputEncoding', 'setInputEncoding', 'setXmlEncoding']"
+identifier,"['removeIdentifier', 'getIdentifiers', 'getIdentifier', 'clearIdentifiers', 'putIdentifier']"
+uri,"['getBaseURI', 'setDocumentURI', 'getDocumentURI']"
+object,"['readObject', 'writeObject']"
+standalone,"['setXmlStandalone', 'setStandalone', 'getXmlStandalone', 'getStandalone']"
+content,"['getTextContent', 'setTextContent']"
+user,"['setUserData', 'callUserDataHandlers', 'getUserData', 'getUserDataRecord', 'removeUserDataTable', 'setUserDataTable']"
+error,"['setErrorChecking', 'setStrictErrorChecking', 'getErrorChecking', 'getStrictErrorChecking']"
+cache,"['getNodeListCache', 'freeNodeListCache']"

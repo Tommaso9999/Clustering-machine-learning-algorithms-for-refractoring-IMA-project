@@ -1,0 +1,44 @@
+cluster_id,method_name
+0,"['insertedNode', 'createDocumentFragment', 'createElementNS', 'removingNode', 'removedNode', 'createDocumentType', 'createAttributeNS', 'replacingNode', 'replacedNode', 'replacingData', 'isNormalizeDocRequired', 'getTextContent', 'getAsync', 'setTextContent', 'replacedCharacterData', 'modifiedAttrValue', 'setAttrNode', 'createTextNode', 'setAsync', 'abort', 'getElementsByTagNameNS', 'removedAttrNode', 'renamedAttrNode', 'load', 'addEventListener', 'renamedElement', 'loadXML', 'canRenameElements', 'clone', 'removeEventListener', 'copyEventListeners', 'getElementsByTagName', 'getImplementation', 'dispatchEvent', 'replacedText', 'deletedText', 'insertedText', 'modifyingCharacterData', 'getOwnerDocument', 'createCDATASection', 'getNodeType', 'modifiedCharacterData', 'getNodeName', 'setMutationEvents', 'insertingNode', 'createComment', 'getMutationEvents']"
+1,"['createNotation', 'createElement', 'createProcessingInstruction', 'createElementDefinition', 'createEntity', 'createEntityReference', 'createAttribute']"
+2,['importNode']
+3,['renameNode']
+4,"['replaceChild', 'insertBefore']"
+5,['replaceRenameElement']
+6,['adoptNode']
+7,"['removeIdentifier', 'getIdentifiers', 'getIdentifier', 'clearIdentifiers']"
+8,"['checkNamespaceWF', 'setErrorChecking', 'checkDOMNSErr', 'setStrictErrorChecking', 'getErrorChecking', 'getStrictErrorChecking']"
+9,['normalizeDocument']
+10,"['callUserDataHandlers', 'getUserData', 'getUserDataRecord', 'removeUserDataTable', 'setUserDataTable']"
+11,"['isXML11Version', 'isValidQName', 'isXMLName']"
+12,"['getBaseURI', 'setDocumentURI', 'getDocumentURI']"
+13,['cloneNode']
+14,['getElementById']
+15,['setXmlVersion']
+16,"['setXmlStandalone', 'getXmlStandalone']"
+17,"['changed', 'changes']"
+18,['saveXML']
+19,['isKidOK']
+20,['removeChild']
+21,['getFeature']
+22,"['getNodeListCache', 'freeNodeListCache']"
+23,['getStandalone']
+24,['getEncoding']
+25,"['getInputEncoding', 'setInputEncoding']"
+26,"['getXmlEncoding', 'setXmlEncoding']"
+27,['putIdentifier']
+28,['setUserData']
+29,['getVersion']
+30,['getDoctype']
+31,['setStandalone']
+32,['getDomConfig']
+33,['getNodeNumber']
+34,['undeferChildren']
+35,['setEncoding']
+36,['readObject']
+37,['getDocumentElement']
+38,['isXMLVersionChanged']
+39,['writeObject']
+40,['setVersion']
+41,['getXmlVersion']
+42,['checkQName']
